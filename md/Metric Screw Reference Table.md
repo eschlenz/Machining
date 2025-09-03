@@ -1,9 +1,24 @@
-# Metric Screw Reference Table (Coarse)
-**Source PDF:** [Metric Screw Reference Table.pdf](https://raw.githubusercontent.com/eschlenz/Machining/main/Metric%20Screw%20Reference%20Table.pdf)
+# Metric Screw Reference Table (Coarse Threads)
 
-> Sample rows below; see PDF for full chart.
+Includes Major Diameter, Minor Diameter, Tap Drill, and Clearance Size
 
-| Size | Major Ø (mm) | Minor Ø (mm) | Tap Drill | Clearance |
+| Screw Size | Major Ø (mm) | Minor Ø (mm) | Tap Drill (mm) | Clearance Drill (mm) |
 |---|---:|---:|---:|---:|
-| M3 × 0.5 | 3.00 | 2.46 | 2.5 mm | 3.2 mm |
-| M6 × 1.0 | 6.00 | 4.77 | 5.0 mm | 6.6 mm |
+| M1 | 1.0 | 0.75 | 0.75 | 1.1 |
+| M1.2 | 1.2 | 0.9 | 0.9 | 1.3 |
+| M1.4 | 1.4 | 1.1 | 1.1 | 1.5 |
+| M1.6 | 1.6 | 1.2 | 1.25 | 1.7 |
+| M2 | 2.0 | 1.6 | 1.6 | 2.2 |
+| M2.5 | 2.5 | 2.0 | 2.05 | 2.7 |
+| M3 | 3.0 | 2.4 | 2.5 | 3.2 |
+| M4 | 4.0 | 3.3 | 3.3 | 4.3 |
+| M5 | 5.0 | 4.2 | 4.2 | 5.3 |
+| M6 | 6.0 | 5.0 | 5.0 | 6.4 |
+| M8 | 8.0 | 6.8 | 6.8 | 8.4 |
+| M10 | 10.0 | 8.5 | 8.5 | 10.5 |
+| M12 | 12.0 | 10.2 | 10.2 | 13.0 |
+| M14 | 14.0 | 12.0 | 12.0 | 15.0 |
+| M16 | 16.0 | 14.0 | 14.0 | 17.0 |
+| M20 | 20.0 | 17.5 | 17.5 | 21.0 |
+| M24 | 24.0 | 21.0 | 21.0 | 25.0 |
+| M30 | 30.0 | 26.0 | 26.0 | 31.0 |
