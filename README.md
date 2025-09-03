@@ -24,6 +24,7 @@ SPECIAL NOTE: One document in particular, [Little Machine Shop's - TapDrillSizes
 - Sanding, Grinding, Polishing Quick Reference ([PDF](Sanding,%20Grinding,%20Polishing%20Quick%20Reference.pdf) | [Markdown](md/Sanding,%20Grinding,%20Polishing%20Quick%20Reference.md))
 - Scotch Brite Color:Grit Reference ([PDF](Scotch%20Brite%20Color%20and%20Grit%20Reference.pdf) | [Markdown](md/Scotch%20Brite%20Color:Grit%20Reference.md))
 - Steel Wool Grit Reference ([PDF](Steel%20Wool%20Grit%20Reference.pdf) | [Markdown](md/Steel%20Wool%20Grit%20Reference.md))
+- [Little Machine Shop's - TapDrillSizes](Little%20Machine%20Shop's%20-%20TapDrillSizes.pdf)
 
 
 
