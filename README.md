@@ -4,7 +4,7 @@ This is a collection of quick reference documents I have created (with the help 
 
 The information found here should _generally_ be correct based on my own (limited) knowledge. However, use at your own discretion. AI likes to hallucinate and just make crap up sometimes. Double check information found here against another source if you are unsure.
 
-SPECIAL NOTE: One document in particular, [Little Machine Shop's - TapDrillSizes](Little Machine Shop's - TapDrillSizes.pdf), is courtesy of LittleMachineShop.com. All credit to this wonderful document goes to them. They actually have a larger set of reference material that can be found [here](https://littlemachineshop.com/info/business_resources.php?ID=1343147249&CAT=1).
+SPECIAL NOTE: One document in particular, [Little Machine Shop's - TapDrillSizes](Little%20Machine%20Shop's%20-%20TapDrillSizes.pdf), is courtesy of LittleMachineShop.com. All credit to this wonderful document goes to them. They actually have a larger set of reference material that can be found [here](https://littlemachineshop.com/info/business_resources.php?ID=1343147249&CAT=1).
 
 --
 
@@ -20,9 +20,9 @@ SPECIAL NOTE: One document in particular, [Little Machine Shop's - TapDrillSizes
 - Metric to Imperial Thousandths Quick Reference ([PDF](Metric%20to%20Imperial%20Thousandths%20Quick%20Reference.pdf) | [Markdown](md/Metric%20to%20Imperial%20Thousandths%20Quick%20Reference.md))
 - Milling Feeds Speeds Quick Reference ([PDF](Milling%20Feeds%20Speeds%20Quick%20Reference.pdf) | [Markdown](md/Milling%20Feeds%20Speeds%20Quick%20Reference.md))
 - Milling RPM Reference Carbide ([PDF](Milling%20RPM%20Reference%20Carbide.pdf) | [Markdown](md/Milling%20RPM%20Reference%20Carbide.md))
-- Milling RPM Reference HSS Updated ([PDF](Milling%20RPM%20Reference%20HSS%20Updated.pdf) | [Markdown](md/Milling%20RPM%20Reference%20HSS%20Updated.md))
+- Milling RPM Reference HSS ([PDF](Milling%20RPM%20Reference%20HSS.pdf) | [Markdown](md/Milling%20RPM%20Reference%20HSS.md))
 - Sanding, Grinding, Polishing Quick Reference ([PDF](Sanding,%20Grinding,%20Polishing%20Quick%20Reference.pdf) | [Markdown](md/Sanding,%20Grinding,%20Polishing%20Quick%20Reference.md))
-- Scotch Brite Color:Grit Reference ([PDF](Scotch%20Brite%20Color:Grit%20Reference.pdf) | [Markdown](md/Scotch%20Brite%20Color:Grit%20Reference.md))
+- Scotch Brite Color:Grit Reference ([PDF](Scotch%20Brite%20Color%20and%20Grit%20Reference.pdf) | [Markdown](md/Scotch%20Brite%20Color:Grit%20Reference.md))
 - Steel Wool Grit Reference ([PDF](Steel%20Wool%20Grit%20Reference.pdf) | [Markdown](md/Steel%20Wool%20Grit%20Reference.md))
 
 
