@@ -1,26 +1,10 @@
-# Imperial Screw Reference Table (UNC - Coarse Threads)
+# Imperial Screw Reference Table (UNC Coarse)
+**Source PDF:** [Imperial Screw Reference Table.pdf](https://raw.githubusercontent.com/eschlenz/Machining/main/Imperial%20Screw%20Reference%20Table.pdf)
 
-Includes Major Diameter, Minor Diameter, Tap Drill, and Clearance Size
+> Sample rows below; see PDF for full chart.
 
-| Screw Size | Major Ø (in) | Minor Ø (in) | Tap Drill (in) | Clearance Drill (in) |
+| Screw Size | Major Ø (in) | Minor Ø (in) | Tap Drill | Clearance |
 |---|---:|---:|---:|---:|
-| #0-80 | 0.06 | 0.047 | 0.0465 | 0.066 |
-| #1-64 | 0.073 | 0.06 | 0.059 | 0.078 |
-| #2-56 | 0.086 | 0.073 | 0.07 | 0.094 |
-| #3-48 | 0.099 | 0.085 | 0.0785 | 0.106 |
-| #4-40 | 0.112 | 0.096 | 0.089 | 0.12 |
-| #5-40 | 0.125 | 0.109 | 0.1015 | 0.133 |
-| #6-32 | 0.138 | 0.106 | 0.1065 | 0.147 |
-| #8-32 | 0.164 | 0.132 | 0.136 | 0.173 |
-| #10-24 | 0.19 | 0.138 | 0.1495 | 0.199 |
-| #12-24 | 0.216 | 0.16 | 0.171 | 0.225 |
-| 1/4-20 | 0.25 | 0.187 | 0.201 | 0.257 |
-| 5/16-18 | 0.3125 | 0.24 | 0.257 | 0.324 |
-| 3/8-16 | 0.375 | 0.297 | 0.3125 | 0.386 |
-| 7/16-14 | 0.4375 | 0.35 | 0.368 | 0.45 |
-| 1/2-13 | 0.5 | 0.403 | 0.421 | 0.51 |
-| 9/16-12 | 0.5625 | 0.456 | 0.484 | 0.578 |
-| 5/8-11 | 0.625 | 0.509 | 0.545 | 0.64 |
-| 3/4-10 | 0.75 | 0.612 | 0.656 | 0.766 |
-| 7/8-9 | 0.875 | 0.715 | 0.766 | 0.89 |
-| 1-8 | 1.0 | 0.818 | 0.875 | 1.015 |
+| #0‑80 | 0.060 | 0.047 | 0.0465 | 0.066 |
+| #2‑56 | 0.086 | 0.073 | 0.070 | 0.094 |
+| 1/4‑20 | 0.250 | 0.190 | #7 (0.201) | 0.266 |
