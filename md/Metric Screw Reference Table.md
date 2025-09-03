@@ -1,9 +1,34 @@
-# Metric Screw Reference Table (Coarse)
-**Source PDF:** [Metric Screw Reference Table.pdf](https://raw.githubusercontent.com/eschlenz/Machining/main/Metric%20Screw%20Reference%20Table.pdf)
+# Metric Screw Reference Table (Coarse Threads)
 
-> Sample rows below; see PDF for full chart.
+Includes **Major Diameter**, **Minor Diameter**, **Tap Drill**, and **Clearance Drill** sizes.  
+All dimensions in millimeters.
 
-| Size | Major Ø (mm) | Minor Ø (mm) | Tap Drill | Clearance |
-|---|---:|---:|---:|---:|
-| M3 × 0.5 | 3.00 | 2.46 | 2.5 mm | 3.2 mm |
-| M6 × 1.0 | 6.00 | 4.77 | 5.0 mm | 6.6 mm |
+| Screw Size | Major Ø (mm) | Minor Ø (mm) | Tap Drill (mm) | Clearance Drill (mm) |
+|------------|--------------|--------------|----------------|----------------------|
+| M1 × 0.25  | 1.00 | 0.75 | 0.75 | 1.1 |
+| M1.2 × 0.25| 1.20 | 0.95 | 0.95 | 1.3 |
+| M1.4 × 0.30| 1.40 | 1.10 | 1.10 | 1.5 |
+| M1.6 × 0.35| 1.60 | 1.25 | 1.25 | 1.8 |
+| M1.8 × 0.35| 1.80 | 1.45 | 1.45 | 2.0 |
+| M2 × 0.40  | 2.00 | 1.60 | 1.60 | 2.2 |
+| M2.2 × 0.45| 2.20 | 1.75 | 1.75 | 2.4 |
+| M2.5 × 0.45| 2.50 | 2.05 | 2.05 | 2.7 |
+| M3 × 0.50  | 3.00 | 2.46 | 2.50 | 3.2 |
+| M3.5 × 0.60| 3.50 | 2.86 | 2.90 | 3.7 |
+| M4 × 0.70  | 4.00 | 3.26 | 3.30 | 4.3 |
+| M5 × 0.80  | 5.00 | 4.13 | 4.20 | 5.3 |
+| M6 × 1.00  | 6.00 | 4.77 | 5.00 | 6.6 |
+| M7 × 1.00  | 7.00 | 5.77 | 6.00 | 7.6 |
+| M8 × 1.25  | 8.00 | 6.65 | 6.80 | 9.0 |
+| M10 × 1.50 | 10.00 | 8.16 | 8.50 | 11.0 |
+| M12 × 1.75 | 12.00 | 9.85 | 10.20| 13.5 |
+| M14 × 2.00 | 14.00 | 11.80| 12.00| 15.5 |
+| M16 × 2.00 | 16.00 | 13.80| 14.00| 17.5 |
+| M18 × 2.50 | 18.00 | 15.30| 15.50| 20.0 |
+| M20 × 2.50 | 20.00 | 17.30| 17.50| 22.0 |
+| M22 × 2.50 | 22.00 | 19.30| 19.50| 24.0 |
+| M24 × 3.00 | 24.00 | 20.85| 21.00| 26.0 |
+
+---
+
+📌 *This table lists common coarse-pitch metric threads. For fine and extra-fine metric threads, consult a dedicated tap/drill chart.*
