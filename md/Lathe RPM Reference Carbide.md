@@ -1,0 +1,27 @@
+# Lathe RPM Starting Points by Material (Carbide Tooling)
+**Source PDF:** [Lathe RPM Reference Carbide.pdf](https://raw.githubusercontent.com/eschlenz/Machining/main/Lathe%20RPM%20Reference%20Carbide.pdf)
+
+**Formula:** `RPM = (SFM × 4) / Diameter (inches)`
+
+> Carbide SFM ≈ 3× HSS (starting point; adjust per toolmaker guidance and rigidity).
+
+| Material | SFM | 0.25" | 0.5" | 1" | 1.5" | 2" | 2.5" | 3" |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| Aluminum 6061 | 900 | 14400 | 7200 | 3600 | 2400 | 1800 | 1440 | 1200 |
+| Aluminum 7075 | 750 | 12000 | 6000 | 3000 | 2000 | 1500 | 1200 | 1000 |
+| Brass (Free Cutting) | 600 | 9600 | 4800 | 2400 | 1600 | 1200 | 960 | 800 |
+| Bronze (Phosphor) | 300 | 4800 | 2400 | 1200 | 800 | 600 | 480 | 400 |
+| Bronze (Aluminum) | 450 | 7200 | 3600 | 1800 | 1200 | 900 | 720 | 600 |
+| Copper | 450 | 7200 | 3600 | 1800 | 1200 | 900 | 720 | 600 |
+| Mild Steel (1018) | 300 | 4800 | 2400 | 1200 | 800 | 600 | 480 | 400 |
+| Mild Steel (1045) | 270 | 4320 | 2160 | 1080 | 720 | 540 | 432 | 360 |
+| Tool Steel (O1) | 180 | 2880 | 1440 | 720 | 480 | 360 | 288 | 240 |
+| Tool Steel (A2) | 150 | 2400 | 1200 | 600 | 400 | 300 | 240 | 200 |
+| Stainless (304) | 240 | 3840 | 1920 | 960 | 640 | 480 | 384 | 320 |
+| Stainless (316) | 210 | 3360 | 1680 | 840 | 560 | 420 | 336 | 280 |
+| Cast Iron (Gray) | 150 | 2400 | 1200 | 600 | 400 | 300 | 240 | 200 |
+| Cast Iron (Ductile) | 180 | 2880 | 1440 | 720 | 480 | 360 | 288 | 240 |
+| Titanium | 180 | 2880 | 1440 | 720 | 480 | 360 | 288 | 240 |
+| Plastics (Delrin) | 1200 | 19200 | 9600 | 4800 | 3200 | 2400 | 1920 | 1600 |
+| Plastics (Nylon) | 900 | 14400 | 7200 | 3600 | 2400 | 1800 | 1440 | 1200 |
+| Plastics (Acrylic) | 600 | 9600 | 4800 | 2400 | 1600 | 1200 | 960 | 800 |
