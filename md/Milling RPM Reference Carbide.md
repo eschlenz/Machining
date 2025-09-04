@@ -1,6 +1,8 @@
 # Milling RPM Starting Points by Material (Carbide Tooling)
 
-**Formula:** `RPM = (SFM × 4) ÷ Cutter Diameter (inches)`
+⚠ **Note:** These are theoretical RPM values. If the calculated RPM exceeds your machine’s maximum spindle speed, use your machine’s max RPM and compensate with slower feeds.
+
+**Formula:** `RPM = (SFM × 4) ÷ Diameter (inches)`
 
 > Carbide SFM ≈ 3× HSS (starting point; adjust per toolmaker guidance and rigidity).
 
@@ -24,5 +26,3 @@
 | Plastics (Delrin) | 1200 | 76800 | 38400 | 19200 | 12800 | 9600 | 6400 | 4800 | 2400 | 1600 |
 | Plastics (Nylon) | 900 | 57600 | 28800 | 14400 | 9600 | 7200 | 4800 | 3600 | 1800 | 1200 |
 | Plastics (Acrylic) | 600 | 38400 | 19200 | 9600 | 6400 | 4800 | 3200 | 2400 | 1200 | 800 |
-
-⚠ **Practical Note:** Mill RPM values are theoretical maximums based on surface speed and cutter diameter. In practice, your spindle’s max RPM, tool balance, and rigidity will often limit how fast you can run. If your machine tops out before the listed value, just run at its maximum safe RPM and adjust feed rate and depth of cut accordingly. Also account for flute count, coolant use, and tool manufacturer recommendations.

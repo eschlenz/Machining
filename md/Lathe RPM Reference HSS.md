@@ -1,5 +1,7 @@
 # Lathe RPM Starting Points by Material (HSS Tooling)
 
+⚠ **Note:** These are theoretical RPM values. If the calculated RPM exceeds your machine’s maximum spindle speed, use your machine’s max RPM and compensate with slower feeds.
+
 **Formula:** `RPM = (SFM × 4) ÷ Diameter (inches)`
 
 | Material | SFM | 0.25" | 0.50" | 1.00" | 1.50" | 2.00" | 2.50" | 3.00" |
@@ -22,5 +24,3 @@
 | Plastics (Delrin) | 400 | 6400 | 3200 | 1600 | 1067 | 800 | 640 | 533 |
 | Plastics (Nylon) | 300 | 4800 | 2400 | 1200 | 800 | 600 | 480 | 400 |
 | Plastics (Acrylic) | 200 | 3200 | 1600 | 800 | 533 | 400 | 320 | 267 |
-
-⚠ **Practical Note:** Often your lathe/chuck rating or balance limits will cap you well below the listed RPMs on small diameters. If your max safe speed is, say, 4,000 RPM, just run the max and adjust feed/DOC for chip control. Also tweak SFM based on insert grade, nose radius, chipbreaker, coolant, and rigidity.

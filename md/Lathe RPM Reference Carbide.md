@@ -1,5 +1,7 @@
 # Lathe RPM Starting Points by Material (Carbide Tooling)
 
+⚠ **Note:** These are theoretical RPM values. If the calculated RPM exceeds your machine’s maximum spindle speed, use your machine’s max RPM and compensate with slower feeds.
+
 **Formula:** `RPM = (SFM × 4) ÷ Diameter (inches)`
 
 > Carbide SFM ≈ 3× HSS (starting point; adjust per toolmaker guidance and rigidity).
@@ -24,5 +26,3 @@
 | Plastics (Delrin) | 1200 | 19200 | 9600 | 4800 | 3200 | 2400 | 1920 | 1600 |
 | Plastics (Nylon) | 900 | 14400 | 7200 | 3600 | 2400 | 1800 | 1440 | 1200 |
 | Plastics (Acrylic) | 600 | 9600 | 4800 | 2400 | 1600 | 1200 | 960 | 800 |
-
-⚠ **Practical Note:** Often your lathe/chuck rating or balance limits will cap you well below the listed RPMs on small diameters. If your max safe speed is, say, 4,000 RPM, just run the max and adjust feed/DOC for chip control. Also tweak SFM based on insert grade, nose radius, chipbreaker, coolant, and rigidity.

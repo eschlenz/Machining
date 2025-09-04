@@ -1,6 +1,8 @@
 # Milling RPM Starting Points by Material (HSS Tooling)
 
-**Formula:** `RPM = (SFM × 4) ÷ Cutter Diameter (inches)`
+⚠ **Note:** These are theoretical RPM values. If the calculated RPM exceeds your machine’s maximum spindle speed, use your machine’s max RPM and compensate with slower feeds.
+
+**Formula:** `RPM = (SFM × 4) ÷ Diameter (inches)`
 
 | Material | SFM | 0.06" | 0.12" | 0.25" | 0.38" | 0.50" | 0.75" | 1.00" | 2.00" | 3.00" |
 |----------|-----|-------|-------|-------|-------|-------|-------|-------|-------|-------|
@@ -22,5 +24,3 @@
 | Plastics (Delrin) | 400 | 25600 | 12800 | 6400 | 4267 | 3200 | 2133 | 1600 | 800 | 533 |
 | Plastics (Nylon) | 300 | 19200 | 9600 | 4800 | 3200 | 2400 | 1600 | 1200 | 600 | 400 |
 | Plastics (Acrylic) | 200 | 12800 | 6400 | 3200 | 2133 | 1600 | 1067 | 800 | 400 | 267 |
-
-⚠ **Practical Note:** Mill RPM values are theoretical maximums based on surface speed and cutter diameter. In practice, your spindle’s max RPM, tool balance, and rigidity will often limit how fast you can run. If your machine tops out before the listed value, just run at its maximum safe RPM and adjust feed rate and depth of cut accordingly. Also account for flute count, coolant use, and tool manufacturer recommendations.
