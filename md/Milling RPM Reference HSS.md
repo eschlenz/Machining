@@ -1,24 +1,26 @@
 # Milling RPM Starting Points by Material (HSS Tooling)
 
-**Formula:**  
-`RPM = (SFM × 4) ÷ Cutter Diameter (inches)`
+**Formula:** `RPM = (SFM × 4) ÷ Cutter Diameter (inches)`
 
-📌 These are baseline RPMs for HSS tooling — adjust based on material, setup rigidity, and toolmaker guidelines.
+| Material | SFM | 0.06" | 0.12" | 0.25" | 0.38" | 0.50" | 0.75" | 1.00" | 2.00" | 3.00" |
+|----------|-----|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+| Aluminum 6061 | 300 | 19200 | 9600 | 4800 | 3200 | 2400 | 1600 | 1200 | 600 | 400 |
+| Aluminum 7075 | 250 | 16000 | 8000 | 4000 | 2667 | 2000 | 1333 | 1000 | 500 | 333 |
+| Brass (Free Cutting) | 200 | 12800 | 6400 | 3200 | 2133 | 1600 | 1067 | 800 | 400 | 267 |
+| Bronze (Phosphor) | 100 | 6400 | 3200 | 1600 | 1067 | 800 | 533 | 400 | 200 | 133 |
+| Bronze (Aluminum) | 150 | 9600 | 4800 | 2400 | 1600 | 1200 | 800 | 600 | 300 | 200 |
+| Copper | 150 | 9600 | 4800 | 2400 | 1600 | 1200 | 800 | 600 | 300 | 200 |
+| Mild Steel (1018) | 100 | 6400 | 3200 | 1600 | 1067 | 800 | 533 | 400 | 200 | 133 |
+| Mild Steel (1045) | 90 | 5760 | 2880 | 1440 | 960 | 720 | 480 | 360 | 180 | 120 |
+| Tool Steel (O1) | 60 | 3840 | 1920 | 960 | 640 | 480 | 320 | 240 | 120 | 80 |
+| Tool Steel (A2) | 50 | 3200 | 1600 | 800 | 533 | 400 | 267 | 200 | 100 | 67 |
+| Stainless (304) | 80 | 5120 | 2560 | 1280 | 853 | 640 | 427 | 320 | 160 | 107 |
+| Stainless (316) | 70 | 4480 | 2240 | 1120 | 747 | 560 | 373 | 280 | 140 | 93 |
+| Cast Iron (Gray) | 50 | 3200 | 1600 | 800 | 533 | 400 | 267 | 200 | 100 | 67 |
+| Cast Iron (Ductile) | 60 | 3840 | 1920 | 960 | 640 | 480 | 320 | 240 | 120 | 80 |
+| Titanium | 60 | 3840 | 1920 | 960 | 640 | 480 | 320 | 240 | 120 | 80 |
+| Plastics (Delrin) | 400 | 25600 | 12800 | 6400 | 4267 | 3200 | 2133 | 1600 | 800 | 533 |
+| Plastics (Nylon) | 300 | 19200 | 9600 | 4800 | 3200 | 2400 | 1600 | 1200 | 600 | 400 |
+| Plastics (Acrylic) | 200 | 12800 | 6400 | 3200 | 2133 | 1600 | 1067 | 800 | 400 | 267 |
 
-| Material                      | SFM | 1/16″ | 1/8″ | 1/4″ | 3/8″ | 1/2″ | 3/4″ | 1″   | 2″   | 3″   |
-|-------------------------------|----:|------:|-----:|-----:|-----:|-----:|-----:|------:|------:|------:|
-| Aluminum 6061                 | 300 | 19200 | 9600 | 4800 | 3200 | 2400 | 1600 | 1200  | 600   | 400   |
-| Aluminum 7075                 | 250 | 16000 | 8000 | 4000 | 2667 | 2000 | 1333 | 1000  | 500   | 333   |
-| Brass / Copper                | 200 | 12800 | 6400 | 3200 | 2133 | 1600 | 1067 | 800   | 400   | 267   |
-| Bronze (Phosphor)             | 100 | 6400  | 3200 | 1600 | 1070 | 800  | 533  | 400   | 200   | 133   |
-| Bronze (Aluminum)             | 150 | 9600  | 4800 | 2400 | 1600 | 1200 | 800  | 600   | 300   | 200   |
-| Mild Steel (1018/1045)        | ~95 | 6080  | 3040 | 1520 | 1013 | 760  | 507  | 380   | 190   | 127   |
-| Tool Steel (O1/A2)            | 55  | 3520  | 1760 | 880  | 587  | 440  | 293  | 220   | 110   | 73    |
-| Stainless Steel (304/316)     | ~75 | 4800  | 2400 | 1200 | 800  | 600  | 400  | 300   | 150   | 100   |
-| Cast Iron (Gray/Ductile)      | ~55 | 3520  | 1760 | 880  | 587  | 440  | 293  | 220   | 110   | 73    |
-| Titanium                      | 60  | 3840  | 1920 | 960  | 640  | 480  | 320  | 240   | 120   | 80    |
-| Plastics (Delrin/Nylon/Acrylic)| ~350 | 22400 | 11200 | 5600 | 3733 | 2800 | 1867 | 1400 | 700   | 467   |
-
----
-
-⚠ **Note:** Values are rounded to the nearest whole RPM. Adjust starting points based on your tool’s flute count, material rigidity, and cooling methods.
+⚠ **Practical Note:** Mill RPM values are theoretical maximums based on surface speed and cutter diameter. In practice, your spindle’s max RPM, tool balance, and rigidity will often limit how fast you can run. If your machine tops out before the listed value, just run at its maximum safe RPM and adjust feed rate and depth of cut accordingly. Also account for flute count, coolant use, and tool manufacturer recommendations.
