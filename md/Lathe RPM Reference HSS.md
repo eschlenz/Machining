@@ -1,10 +1,9 @@
 # Lathe RPM Starting Points by Material (HSS Tooling)
-**Source PDF:** [Lathe RPM Reference HSS.pdf](https://raw.githubusercontent.com/eschlenz/Machining/main/Lathe%20RPM%20Reference%20HSS.pdf)
 
-**Formula:** `RPM = (SFM × 4) / Diameter (inches)`
+**Formula:** `RPM = (SFM × 4) ÷ Diameter (inches)`
 
-| Material | SFM | 0.25" | 0.5" | 1" | 1.5" | 2" | 2.5" | 3" |
-|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| Material | SFM | 0.25" | 0.50" | 1.00" | 1.50" | 2.00" | 2.50" | 3.00" |
+|----------|-----|-------|-------|-------|-------|-------|-------|-------|
 | Aluminum 6061 | 300 | 4800 | 2400 | 1200 | 800 | 600 | 480 | 400 |
 | Aluminum 7075 | 250 | 4000 | 2000 | 1000 | 667 | 500 | 400 | 333 |
 | Brass (Free Cutting) | 200 | 3200 | 1600 | 800 | 533 | 400 | 320 | 267 |
@@ -23,3 +22,5 @@
 | Plastics (Delrin) | 400 | 6400 | 3200 | 1600 | 1067 | 800 | 640 | 533 |
 | Plastics (Nylon) | 300 | 4800 | 2400 | 1200 | 800 | 600 | 480 | 400 |
 | Plastics (Acrylic) | 200 | 3200 | 1600 | 800 | 533 | 400 | 320 | 267 |
+
+⚠ **Practical Note:** Often your lathe/chuck rating or balance limits will cap you well below the listed RPMs on small diameters. If your max safe speed is, say, 4,000 RPM, just run the max and adjust feed/DOC for chip control. Also tweak SFM based on insert grade, nose radius, chipbreaker, coolant, and rigidity.
