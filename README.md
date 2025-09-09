@@ -14,6 +14,7 @@ SPECIAL NOTE: One document in particular, [Little Machine Shop's - TapDrillSizes
 - Drilling Quick Reference ([PDF](Drilling%20Quick%20Reference.pdf) | [Markdown](md/Drilling%20Quick%20Reference.md))
 - Imperial Fractions to Thousandths Quick Reference ([PDF](Imperial%20Fractions%20to%20Thousandths%20Quick%20Reference.pdf) | [Markdown](md/Imperial%20Fractions%20to%20Thousandths%20Quick%20Reference.md))
 - Imperial Screw Reference Table ([PDF](Imperial%20Screw%20Reference%20Table.pdf) | [Markdown](md/Imperial%20Screw%20Reference%20Table.md))
+- Cutting Tool Compatibility Quick Reference ([PDF](Cutting%20Tool%20Compatibility%20Quick%20Reference.pdf) | [Markdown](md/Cutting%20Tool%20Compatibility%20Quick%20Reference.md))
 - Lathe RPM Reference Carbide ([PDF](Lathe%20RPM%20Reference%20Carbide.pdf) | [Markdown](md/Lathe%20RPM%20Reference%20Carbide.md))
 - Lathe RPM Reference HSS ([PDF](Lathe%20RPM%20Reference%20HSS.pdf) | [Markdown](md/Lathe%20RPM%20Reference%20HSS.md))
 - Metric Screw Reference Table ([PDF](Metric%20Screw%20Reference%20Table.pdf) | [Markdown](md/Metric%20Screw%20Reference%20Table.md))
